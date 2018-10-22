@@ -1,0 +1,51 @@
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.pdb
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormClientes.resources
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormLogin.resources
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormMenu.resources
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProductos.resources
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormRentas.resources
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.Properties.Resources.resources
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BLClintes.dll
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BLClintes.pdb
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csprojResolveAssemblyReference.cache
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormClientes.resources
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormLogin.resources
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormMenu.resources
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProductos.resources
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormRentas.resources
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.Properties.Resources.resources
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csproj.GenerateResource.Cache
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.pdb
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BLClintes.dll
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.pdb
+E:\tarea Ltres\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BLClintes.pdb
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe.config
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.exe
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.pdb
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.exe
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\Win.Rentas.pdb
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BLClintes.dll
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\bin\Debug\BLClintes.pdb
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormClientes.resources
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormLogin.resources
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormMenu.resources
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormProductos.resources
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.FormRentas.resources
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.Properties.Resources.resources
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\Win.Rentas\obj\Debug\Win.Rentas.csproj.GenerateResource.Cache

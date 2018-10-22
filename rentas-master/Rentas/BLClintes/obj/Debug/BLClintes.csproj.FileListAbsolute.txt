@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\BLClintes\bin\Debug\BLClintes.dll
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\BLClintes\bin\Debug\BLClintes.pdb
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.dll
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.pdb
+C:\Users\Usuario\Documents\tarea bases\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.csprojResolveAssemblyReference.cache
+E:\tarea Ltres\semana 10\rentas-master\Rentas\BLClintes\bin\Debug\BLClintes.dll
+E:\tarea Ltres\semana 10\rentas-master\Rentas\BLClintes\bin\Debug\BLClintes.pdb
+E:\tarea Ltres\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.csprojResolveAssemblyReference.cache
+E:\tarea Ltres\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.dll
+E:\tarea Ltres\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.pdb
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\BLClintes\bin\Debug\BLClintes.dll
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\BLClintes\bin\Debug\BLClintes.pdb
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.dll
+C:\Users\Usuario\Pictures\ejercicio 2 L3 21-OCT\ejercicio 2 l3\semana 10\rentas-master\Rentas\BLClintes\obj\Debug\BLClintes.pdb
